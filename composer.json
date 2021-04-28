@@ -1,0 +1,20 @@
+{
+    "name": "joao/teste",
+    "description": "teste de email",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Jvicto-Dev",
+            "email": "joaovicto12112001@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
