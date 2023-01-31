@@ -4,7 +4,7 @@ require __DIR__ .'/vendor/autoload.php';
 
 use \App\Communication\Email;
 
-$adresses = 'vjoao3340@gmail.com';
+$adresses = 'email_para_quem_quero_enviar';
 $subject = 'Ola mundo :)';
 $body = '<b>Ola mundo 2<b>';
 
